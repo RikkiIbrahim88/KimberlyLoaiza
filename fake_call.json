@@ -2,7 +2,7 @@
   "Ads": [
       {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
@@ -71,45 +71,45 @@
   [
     {
       "id":1,
-      "name":"Ludo King",
-      "image_url":"file:///android_asset/mine.webp",
-      "video_url":"footbal",
-      "voice_url":"dosa_membawa_keburukan.mp3"
+      "name":"Kimerly Loaiza",
+      "image_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly1.jpg",
+      "video_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly1.mp4",
+      "voice_url":"https://github.com/RikkiIbrahim88/KimberlyLoaiza/raw/main/suarakimberly.mp3"
     },
     {
       "id":2,
-      "name":"Homescapes",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/home.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "name":"Kimerly Loaiza",
+      "image_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly2.webp",
+      "video_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly2.mp4",
+      "voice_url":"https://github.com/RikkiIbrahim88/KimberlyLoaiza/raw/main/suarakimberly.mp3"
     },
     {
       "id":3,
-      "name":"Minecraft",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/ludo.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+      "name":"Kimerly Loaiza",
+      "image_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly3.jpg",
+      "video_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly3.mp4",
+      "voice_url":"https://github.com/RikkiIbrahim88/KimberlyLoaiza/raw/main/suarakimberly.mp3"
     },
     {
       "id":4,
-      "name":"Sonic the Hedgehog™ Classic",
-      "image_url":"file:///android_asset/sonic.webp",
-      "video_url":"footbal",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/malas_ibadah.mp3"
+      "name":"Kimerly Loaiza",
+      "image_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly4.jpg",
+      "video_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly4.mp4",
+      "voice_url":"https://github.com/RikkiIbrahim88/KimberlyLoaiza/raw/main/suarakimberly.mp3"
     },
     {
       "id":5,
-      "name":"War Machines: Best Free Online War & Military Game",
-      "image_url":"file:///android_asset/machine.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower.mov",
-      "voice_url":"https://aliendro.id/uploads/demo/fakecall/cinta_diam.mp3"
+      "name":"Kimerly Loaiza",
+      "image_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly5.jpg",
+      "video_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly5.mp4",
+      "voice_url":"https://github.com/RikkiIbrahim88/KimberlyLoaiza/raw/main/suarakimberly.mp3"
     },
     {
       "id":6,
-      "name":"Tank vs Helicopter. Free War Game: Massive Warfare",
-      "image_url":"https://aliendro.id/uploads/demo/fakecall/heli.webp",
-      "video_url":"https://aliendro.id/uploads/demo/fakecall/flower3.mov",
-      "voice_url":"dosa_membawa_keburukan.mp3"
+      "name":"Kimerly Loaiza",
+      "image_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly6.jpg",
+      "video_url":"https://raw.githubusercontent.com/RikkiIbrahim88/KimberlyLoaiza/main/Kimberly6.mp4",
+      "voice_url":"https://github.com/RikkiIbrahim88/KimberlyLoaiza/raw/main/suarakimberly.mp3"
     }
   ]
 
